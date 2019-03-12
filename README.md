@@ -1,2 +1,5 @@
 # SchoolRepo1
-New Project
+
+Hello World!
+
+This is Foretiger. Just testing everything out!
